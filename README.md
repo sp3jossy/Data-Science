@@ -24,7 +24,7 @@ Data Professional with 6+ years of experience in SQL, Power BI, Python, and Snow
 ### 🔹 3. Smartphone ReCell Price Prediction (Regression Analysis)
 - **Techniques:** OLS Regression, Feature Engineering
 - **Outcome:** Built a model (R² = 0.817) to predict used smartphone resale prices, enhancing pricing strategies.
-- **[View Project](link_to_notebook)**
+- **[View Project](https://github.com/sp3jossy/Data-Science/blob/Supervised-Learning/SLF_ReCell_Project_FullCode.ipynb)**
 
 ---
 
