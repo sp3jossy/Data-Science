@@ -94,7 +94,6 @@ Identified key features influencing booking status with significant coefficients
 
 ### 🔹 5. E-News Landing Page A/B Testing – Business Statistics Project
 This project analyzes the effectiveness of a new landing page design for a fictional newsletter service (E-News Express) using A/B testing and statistical inference.
-
 ## 🧪 Objective
 To determine whether the new landing page leads to a statistically significant increase in newsletter subscriptions compared to the old version.
 
@@ -104,10 +103,10 @@ Jupyter Notebook / HTML Export
 Statistical Testing: Z-test, Hypothesis Testing, Confidence Intervals
 
 ## 📈 Key Analysis
-Performed data cleaning and summary statistics
-Conducted a two-proportion z-test on control vs. treatment groups
-Computed confidence intervals to assess effect size
-Visualized key metrics for interoperability
+- Performed data cleaning and summary statistics
+- Conducted a two-proportion z-test on control vs. treatment groups
+- Computed confidence intervals to assess effect size
+- Visualized key metrics for interoperability
 
 ## 🧠 Results
 P-value = 0.19 → No statistically significant difference observed between the old and new landing page designs.
