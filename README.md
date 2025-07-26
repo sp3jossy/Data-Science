@@ -10,7 +10,7 @@ Data Professional with 6+ years of experience in SQL, Power BI, Python, and Snow
 ### 🔹 1. Unsupervised Learning on Stock Market Data
 - **Techniques:** K-Means, Hierarchical Clustering, Cophenetic Correlation
 - **Outcome:** Segmented stocks into clusters based on growth, volatility, and financial metrics (ARI 0.745, NMI 0.659).
-- **[View Project](link_to_notebook)**
+- **[View Project](https://github.com/sp3jossy/Data-Science/blob/Unsupervised-Learning/UnsupervisedLearning_Project.ipynb)**
 
 ---
 
@@ -29,7 +29,7 @@ Data Professional with 6+ years of experience in SQL, Power BI, Python, and Snow
 ---
 
 ## 🛠️ Tools & Technologies
-- **Languages:** Python (Pandas, Scikit-learn, Statsmodels), SQL  
+- **Languages:** Python (Pandas, Scikit-learn, Statsmodels, KMeans, XGB, Random Forest), SQL  
 - **Visualization:** Power BI, Matplotlib, Seaborn  
 - **Cloud/Data:** Snowflake  
 - **Version Control:** Git, GitHub
