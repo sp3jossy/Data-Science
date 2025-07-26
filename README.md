@@ -17,7 +17,7 @@ Data Professional with 6+ years of experience in SQL, Power BI, Python, and Snow
 ### 🔹 2. Visa Approval Prediction Using Ensemble Models
 - **Techniques:** Random Forest, Gradient Boosting, Feature Importance Analysis
 - **Outcome:** Identified key factors (education, wages, location) influencing visa approvals; improved predictive accuracy.
-- **[View Project]([https://github.com/sp3jossy/Data-Science/blob/Supervised-Learning/Project_Full_Code_Notebook_EasyVisa.ipynb])**
+- **[View Project](https://github.com/sp3jossy/Data-Science/blob/Supervised-Learning/Project_Full_Code_Notebook_EasyVisa.ipynb)**
 
 ---
 
