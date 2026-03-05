@@ -24,7 +24,7 @@ Data Professional with 6+ years of experience in SQL, Power BI, Python, and Snow
 ### 🔹 3. House Price Prediction on Kaggle Competiton  (Regression Analysis)
 - **Techniques:** Regression, Feature Engineering, VIF,  Model Comparison(Random Forest, Gradient Boosting, XGBoost)
 - **Outcome:** Built a model (R² = 0.915, Adjusted R² = 0.891, RMSE = 24423.114) to predict house prices and the affecting factors.
--**[View Project](https://github.com/sp3jossy/DS_Machine-Learning_Projects/blob/Supervised-Learning/Copy_of_JA_kaggle_HousingProject.ipynb)**
+-**[View Project](https://github.com/sp3jossy/DS_Machine-Learning_Projects/blob/Supervised-Learning/JA_Housing_Price_Project.ipynb)**
 
 ---
 
