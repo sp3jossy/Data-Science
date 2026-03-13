@@ -89,6 +89,7 @@ Jupyter Notebook / HTML Export
 ### 🧠 Results 
 For reducing both False Negatives and False Positives, the model can predict and correctly identify 77.7% of the potential booking cancellations.
 Identified key features influencing booking status with significant coefficients (p-values < 0.05) and R² ~ 0.2325.
+**[View Project](https://github.com/sp3jossy/Data-Science/blob/main/Project_SLC_DSBA_INNHotels_FullCode.ipynb)**
 
 ---
 
@@ -106,10 +107,9 @@ Statistical Testing: Z-test, Hypothesis Testing, Confidence Intervals
 - Conducted a two-proportion z-test on control vs. treatment groups
 - Computed confidence intervals to assess effect size
 - Visualized key metrics for interoperability
-
 ### 🧠 Results  
 P-value = 0.19 → No statistically significant difference observed between the old and new landing page designs.
-**[View Project](https://github.com/sp3jossy/Data-Science/blob/main/Project_SLC_DSBA_INNHotels_FullCode.ipynb)**
+**[View Project](https://github.com/sp3jossy/Business-Statistics/blob/main/ENews-Business%20Statistics%20Presentation.pptx)**
 
 ---
 
