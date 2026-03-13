@@ -47,7 +47,7 @@ Jupyter Notebook / HTML Export
 
 ### 🧠 Results  
 Revealed education level, wage, and job experience as the top factors influencing approval probability.  
-**[View Project](https://github.com/sp3jossy/Data-Science/blob/Supervised-Learning/Project_Full_Code_Notebook_EasyVisa.ipynb)**
+**[View Project](https://github.com/sp3jossy/DS_Machine-Learning_Projects/blob/main/Visa%20Approval%20Project%20Presentation.pdf)**
 
 ---
 
