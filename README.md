@@ -49,9 +49,30 @@ Jupyter Notebook / HTML Export
 Revealed education level, wage, and job experience as the top factors influencing approval probability.  
 **[View Project](https://github.com/sp3jossy/DS_Machine-Learning_Projects/blob/main/Visa%20Approval%20Project%20Presentation.pdf)**
 
+
 ---
 
-### 🔹 3. Smartphone ReCell Price Prediction (Regression Analysis)  
+### 🔹 3. E-News Landing Page A/B Testing – Business Statistics Project  
+## 🧪 Objective  
+To determine whether the new landing page leads to a statistically significant increase in newsletter subscriptions compared to the old version.
+
+### 🛠️ Tools & Technologies  
+Python (Pandas, Matplotlib, Scipy)
+Jupyter Notebook / HTML Export
+Statistical Testing: Z-test, Hypothesis Testing, Confidence Intervals
+
+### 📈 Key Analysis  
+- Performed data cleaning and summary statistics
+- Conducted a two-proportion z-test on control vs. treatment groups
+- Computed confidence intervals to assess effect size
+- Visualized key metrics for interoperability
+### 🧠 Results  
+P-value = 0.19 → No statistically significant difference observed between the old and new landing page designs.
+**[View Project](https://github.com/sp3jossy/Business-Statistics/blob/main/ENews-Business%20Statistics%20Presentation.pptx)**
+
+---
+
+### 🔹 4. Smartphone ReCell Price Prediction (Regression Analysis)  
 ## 🧪 Objective  
 Predict used smartphone prices to assist in determining optimal resale values.
 
@@ -72,7 +93,7 @@ Built a pricing model with R² = 0.817, enabling data-driven resale strategies.
 
 ---
 
-###  🔹 4. INN Hotels (Supervised Learning - Classification) 
+###  🔹 5. INN Hotels (Supervised Learning - Classification) 
 ## 🧪 Objective  
 Develop a predictive model to analyze data and find which factors have a high influence on booking cancellations and predict cancellations.
 
@@ -90,26 +111,6 @@ Jupyter Notebook / HTML Export
 For reducing both False Negatives and False Positives, the model can predict and correctly identify 77.7% of the potential booking cancellations.
 Identified key features influencing booking status with significant coefficients (p-values < 0.05) and R² ~ 0.2325.
 **[View Project](https://github.com/sp3jossy/Data-Science/blob/main/Project_SLC_DSBA_INNHotels_FullCode.ipynb)**
-
----
-
-### 🔹 5. E-News Landing Page A/B Testing – Business Statistics Project  
-## 🧪 Objective  
-To determine whether the new landing page leads to a statistically significant increase in newsletter subscriptions compared to the old version.
-
-### 🛠️ Tools & Technologies  
-Python (Pandas, Matplotlib, Scipy)
-Jupyter Notebook / HTML Export
-Statistical Testing: Z-test, Hypothesis Testing, Confidence Intervals
-
-### 📈 Key Analysis  
-- Performed data cleaning and summary statistics
-- Conducted a two-proportion z-test on control vs. treatment groups
-- Computed confidence intervals to assess effect size
-- Visualized key metrics for interoperability
-### 🧠 Results  
-P-value = 0.19 → No statistically significant difference observed between the old and new landing page designs.
-**[View Project](https://github.com/sp3jossy/Business-Statistics/blob/main/ENews-Business%20Statistics%20Presentation.pptx)**
 
 ---
 
